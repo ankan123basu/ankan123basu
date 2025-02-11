@@ -1,4 +1,10 @@
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<div align="center"
+  <h3 align="center">
+  <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350">
+  </h3> 
+
+  
+</div>
 
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=500&lines=Hey+there%2C+I'm+Ankan+Basu!+%F0%9F%91%8B;ML-O+And+%26+AI+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
 
