@@ -6,7 +6,7 @@
   
 </div>
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=500&lines=Hey+there%2C+I'm+Ankan+Basu!+%F0%9F%91%8B;ML-O+And+%26+AI+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=500&lines=Hey+there%2C+I'm+Ankan+Basu!+%F0%9F%91%8B;ML-Ops+And+%26+AI+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
 
 <h3 align="center">I’m Ankan, a passionate and driven Computer Science student at Lovely Professional University, with a strong foundation in problem-solving and a keen interest in software development. Eager to learn, adapt, and contribute to the ever-evolving world of technology, I strive to make a meaningful impact through my work. 
 </h3>
