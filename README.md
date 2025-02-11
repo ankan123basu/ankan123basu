@@ -1,8 +1,9 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=500&lines=Hey+there%2C+I'm+Ankan+Basu!+%F0%9F%91%8B;ML-OpsAnd+%26+AI+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=500&lines=Hey+there%2C+I'm+Ankan+Basu!+%F0%9F%91%8B;ML-O+And+%26+AI+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
 
-<h3 align="center">A relentless problem-solver and future tech innovator 🌟. Computer Science student at Lovely Professional University | 4x Hackathon Champion 🏆 | ML, Gen AI, Web Dev & DevOps Enthusiast ⚙️ | Java Developer ☕ | DSA Ninja 💻 | Constantly pushing boundaries!</h3>
+<h3 align="center">I’m Ankan, a passionate and driven Computer Science student at Lovely Professional University, with a strong foundation in problem-solving and a keen interest in software development. Eager to learn, adapt, and contribute to the ever-evolving world of technology, I strive to make a meaningful impact through my work. 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan123basu&label=Profile%20views&color=0e75b6&style=flat" alt="ankan123basu" /> </p>
 
@@ -18,6 +19,9 @@
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankan-basu-595152271" height="30" width="40" /></a>
+  <a href="https://x.com/AnkanBasu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnkanBasu02" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ank2n10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ank2n10" height="30" width="40" /></a>
+
 </p>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
