@@ -48,7 +48,14 @@
   <a href="https://www.instagram.com/ank2n10/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
+  <a href="https://leetcode.com/u/ankanbasu10/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/ankanbasu10" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Codeforces_logo.svg" alt="Codeforces" height="40" width="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -94,22 +101,22 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&show_icons=true&locale=en&layout=compact" alt="ankan123basu" />
-</p>
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankan123basu&show_icons=true&locale=en" alt="ankan123basu" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&" alt="ankan123basu" />
-</p>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="ankan123basu" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&theme=highcontrast" alt="ankan123basu" />
+</div>
 
 ---
 
 ## 🎯 Keep Learning & Building! 🚀
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 ---
 
