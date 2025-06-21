@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center">
-    <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350">
+    <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350" alt="AI Technology Banner">
   </h3> 
 </div>
 
@@ -10,115 +10,112 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   
-</div>
+</div> 
 
-## 🚀 <span style="color:#ffcc00;">About Me</span> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
+## 🧠 <span style="color:#ffcc00;">About Me</span> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
 
- Hi, I’m **Ankan Basu**, a **Computer Science student** at **Lovely Professional University** with a passion for **AI, ML-Ops, and Software Development**.  
+**Computer Science Student** @ Lovely Professional University | **JAVA** | **GENERATIVE-AI | MACHINE-LEARNING | WEB-DEVELOPMENT**  
 
-💻 **Tech Enthusiast & Problem Solver** – I build **efficient & scalable applications** using **Java, Python, C++, and JavaScript**.  
-🤖 **Exploring Generative AI & Machine Learning** – Diving deep into **LangChain, LlamaIndex, and RAG**, while mastering **TensorFlow & PyTorch**.  
-☁️ **Backend & ML-Ops Explorer** – Automating **AI deployment pipelines** and optimizing **cloud infrastructure**.  
-♟️ **Strategic Thinker & Chess Enthusiast** – I apply logic both **on the board and in my code** to solve complex problems!  
-🚀 **Always Learning & Innovating** – Constantly exploring the latest in **AI, DevOps, and cutting-edge tech**!  
+💡 **Problem Solver** - Competitive programming using Java | C | Python  
+🤖 **Generative AI Explorer** - Building with **LangChain, LlamaIndex, RAG pipelines, NLP(NATURAL LANGUAGE PROCESSING)**  
+🚀 **Tech Evangelist** - Constantly experimenting with cutting-edge AI/ML frameworks 
+⚙️ **ML-Ops Practitioner** - Experimenting with Machine Learning and DevOps  
+♟️ **Chess Strategist** - Applying game theory to complex system design <img src="https://media.giphy.com/media/l0HlP7MAJkU8dX7g4/giphy.gif" width="30">
  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankan123basu&label=Profile%20views&color=0e75b6&style=flat" alt="ankan123basu" />
+  <img src="https://komarev.com/ghpvc/?username=ankan123basu&label=Profile%20views&color=0e75b6&style=flat" alt="ankan123basu">
 </p>
 
-### 🚀 Currently:
-- 🔭 Crafting solutions for **SIH Project**  
-- 🌱 Leveling up with **MERN, ML, Gen-AI & DevOps**  
-- 👯 Seeking collaborators for **ML & Gen-AI Projects** – Let’s create something next-gen!  
-- 🤝 Open to expertise exchange in **ML & DevOps Projects**  
-- 📫 Reach out at **ankanbasu10@gmail.com**  
-- ⚡ **Fun Fact**: Full-time student, part-time coder, and full-time dreamer! 😎  
+### 🔭 **Currently Focused On**
+- 🏆 Developing AI solutions for **SIH Project**
+- 🤝 Collaborating on **generative AI projects** - Let's build something innovative!  
+- 🌱 Mastering **Web Development & MLOps**  
+- 📫 **Reach me at**: ankanbasu10@gmail.com  
+- ⚡ **Fun fact**: Solve coding problems like chess puzzles - strategically! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
-## 🔗 Let's Connect:
+## 🤝 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://x.com/AnkanBasu02" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/ank2n10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter">
   </a>
   <a href="https://leetcode.com/u/ankanbasu10/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode">
   </a>
   <a href="https://codeforces.com/profile/ankanbasu10" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Codeforces_logo.svg" alt="Codeforces" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/Codeforces-Competitions-1F8ACB?logo=codeforces&style=for-the-badge" alt="Codeforces">
   </a>
 </p>
 
-
 ---
 
-## ⚡ Skills & Tools:
-### 📌 Programming Languages:
+## 🛠️ **Technical Toolkit**
+
+### 💻 **Core Development**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### 🖥️ Web Development:
+### 🤖 **AI/ML Stack**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/LangChain-00ADD8?logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-### 🤖 Machine Learning & AI:
+### 🌐 **Web Technologies**
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-### ☁️ DevOps & Cloud:
+### ☁️ **Infrastructure**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **Development Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankan123basu&show_icons=true&locale=en" alt="ankan123basu" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="ankan123basu" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&theme=highcontrast" alt="ankan123basu" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=react-dark&area=true&hide_border=true" alt="Activity Graph">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankan123basu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&theme=vision-friendly-dark" alt="Contribution Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Languages" height="200">
 </div>
 
 ---
 
-## 🎯 Keep Learning & Building! 🚀
-
+## 💡 **Coding Philosophy**
 <div align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50">
+  <blockquote style="font-size: 20px; font-style: italic;">
+    "Build solutions that matter - Where algorithms meet strategy, and innovation meets execution"
+  </blockquote>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
 </div>
 
 ---
 
-## 🌟 Quote of the Day:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌟 **Daily Inspiration** 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote">
+</div>
