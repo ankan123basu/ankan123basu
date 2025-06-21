@@ -21,6 +21,7 @@
 🚀 **Tech Evangelist** - Constantly experimenting with cutting-edge AI/ML frameworks 
 ⚙️ **ML-Ops Practitioner** - Experimenting with MACHINE LEARNING AND DEVOPS  
 ♟️ **Chess Strategist** - Applying game theory to complex system design  
+
  
 
 ### 🔭 **Currently Focused On**
