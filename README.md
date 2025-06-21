@@ -16,16 +16,12 @@
 
 **Computer Science Student** @ Lovely Professional University | **JAVA** | **GENERATIVE-AI | MACHINE-LEARNING | WEB-DEVELOPMENT**  
 
-💡 **Problem Solver** - Competitive programming using Java | C | Python  
-🤖 **Generative AI Explorer** - Building with **LangChain, LlamaIndex, RAG pipelines, NLP(NATURAL LANGUAGE PROCESSING)**  
+💡 **Problem Solver** -  Competitive programming using Java | C | PYTHON  
+🤖 **Generative AI Explorer** - Building with **LangChain, LlamaIndex , RAG pipelines, NLP(NATURAL LANGUAGE PROCESSING)**  
 🚀 **Tech Evangelist** - Constantly experimenting with cutting-edge AI/ML frameworks 
-⚙️ **ML-Ops Practitioner** - Experimenting with Machine Learning and DevOps  
-♟️ **Chess Strategist** - Applying game theory to complex system design <img src="https://media.giphy.com/media/l0HlP7MAJkU8dX7g4/giphy.gif" width="30">
+⚙️ **ML-Ops Practitioner** - Experimenting with MACHINE LEARNING AND DEVOPS  
+♟️ **Chess Strategist** - Applying game theory to complex system design  
  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankan123basu&label=Profile%20views&color=0e75b6&style=flat" alt="ankan123basu">
-</p>
 
 ### 🔭 **Currently Focused On**
 - 🏆 Developing AI solutions for **SIH Project**
