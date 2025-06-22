@@ -34,21 +34,7 @@
 ---
 
 ## 🤝 **Connect With Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/AnkanBasu02" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter">
-  </a>
-  <a href="https://leetcode.com/u/ankanbasu10/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode">
-  </a>
-  <a href="https://codeforces.com/profile/ankanbasu10" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Competitions-1F8ACB?logo=codeforces&style=for-the-badge" alt="Codeforces">
-  </a>
-</p>
-
+<p align="center"> <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"> </a> <a href="https://x.com/AnkanBasu02" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"> </a> <a href="https://leetcode.com/u/ankanbasu10/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode"> </a> <a href="https://codeforces.com/profile/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Competitions-1F8ACB?logo=codeforces&style=for-the-badge" alt="Codeforces"> </a> <a href="https://www.codechef.com/users/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-Rated%20Coder-5B4638?logo=codechef&style=for-the-badge" alt="CodeChef"> </a> </p>
 ---
 
 ## 🛠️ **Technical Toolkit**
@@ -57,8 +43,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
 </p>
 
 ### 🤖 **AI/ML Stack**
