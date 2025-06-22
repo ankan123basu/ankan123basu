@@ -25,9 +25,9 @@
  
 
 ### 🔭 **Currently Focused On**
-- 🏆 Developing AI solutions for **SIH Project**
-- 🤝 Collaborating on **generative AI projects** - Let's build something innovative!  
-- 🌱 Mastering **Web Development & MLOps**  
+- 🏆 Developing AI solutions for **SIH Project and Hackathons**
+- 🤝 Learning and Collaborating on **generative AI projects** - Let's build something innovative!  
+- 🌱 Grinding **Web Development & MLOps**  
 - 📫 **Reach me at**: ankanbasu10@gmail.com  
 - ⚡ **Fun fact**: Solve coding problems like chess puzzles - strategically! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
