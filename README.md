@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankan+Basu+%F0%9F%91%8B;ML-Ops+And+AI+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
+  ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankan+Basu+%F0%9F%91%8B;ML,Gen-AI,ComputerVision+And+WebDev+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   
