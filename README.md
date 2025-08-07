@@ -109,22 +109,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&theme=vision-friendly-dark" alt="Contribution Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Languages" height="200">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 
 
-## 🏙️ GitHub Skyline
 
-<p align="center">
-  <a href="https://skyline.github.com/ankan123basu/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View-3D%20Skyline-blue?style=for-the-badge&logo=github" alt="Skyline">
-  </a>
-</p>
 
 
 
 ## 💡 **Coding Philosophy**
-
 <div align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50">
   <blockquote style="font-size: 20px; font-style: italic;">
