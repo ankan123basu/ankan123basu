@@ -46,39 +46,22 @@
 
 ## 🛠️ **Technical Toolkit**
 
-### 💻 **Core Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
-</p>
+💻 Languages:
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"> </p>
+🧰 Frameworks & Libraries
+<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white" alt="Maven"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> </p>
+🤖 Machine Learning
+<p align="center"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=spaCy&logoColor=white" alt="NLP"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?logo=google&logoColor=white" alt="Tesseract OCR"> </p>
+🤖 Gen AI
+<p align="center"> <img src="https://img.shields.io/badge/LangChain-00ADD8?logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/RAG-6A5ACD?logo=readthedocs&logoColor=white" alt="RAG"> <img src="https://img.shields.io/badge/HuggingFace-FFBF00?logo=huggingface&logoColor=black" alt="HuggingFace Transformers"> <img src="https://img.shields.io/badge/OpenAI_GPT-412991?logo=openai&logoColor=white" alt="OpenAI GPT"> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white" alt="Google Gemini"> </p>
+🗄️ Databases
+<p align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"> </p>
+📚 Core CS Topics
+<p align="center"> <img src="https://img.shields.io/badge/Data_Structures-4B0082?logo=codeforces&logoColor=white" alt="Data Structures"> <img src="https://img.shields.io/badge/Operating_Systems-008080?logo=linux&logoColor=white" alt="Operating Systems"> <img src="https://img.shields.io/badge/Computer_Networking-FF6347?logo=cisco&logoColor=white" alt="Computer Networking"> <img src="https://img.shields.io/badge/Database(DBMS)-8A2BE2?logo=sqlite&logoColor=white" alt="DBMS"> <img src="https://img.shields.io/badge/Algorithms_Design-DC143C?logo=geeksforgeeks&logoColor=white" alt="Algorithms Design"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,100:DCEDC1&height=120&section=header&text=🚀%20My%20Technical%20Stack&fontSize=28&fontColor=000000&animation=fadeIn"/>
 
-### 🤖 **AI/ML Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/LangChain-00ADD8?logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-</p>
 
-### 🌐 **Web Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
 
-### ☁️ **Infrastructure**
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </p>
-
 
 
 ## 🏅 Achievements
