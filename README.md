@@ -73,6 +73,10 @@
 </p>
 
 ---
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankan123basu&theme=radical&column=4&margin-w=5" alt="GitHub Trophies" />
+</p>
 
 ## 📊 **Development Activity**
 
