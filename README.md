@@ -44,8 +44,9 @@
 </p>
 
 
-## 🛠️ **Technical Toolkit**
-
+## 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,100:DCEDC1&height=120&section=header&text=🚀%20My%20Tech%20Stack&fontSize=28&fontColor=000000&animation=fadeIn"/>
+</p>
 💻 Languages:
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"> </p>
 🧰 Frameworks & Libraries
@@ -57,7 +58,7 @@
 🗄️ Databases
 <p align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"> </p>
 📚 Core CS Topics
-<p align="center"> <img src="https://img.shields.io/badge/Data_Structures-4B0082?logo=codeforces&logoColor=white" alt="Data Structures"> <img src="https://img.shields.io/badge/Operating_Systems-008080?logo=linux&logoColor=white" alt="Operating Systems"> <img src="https://img.shields.io/badge/Computer_Networking-FF6347?logo=cisco&logoColor=white" alt="Computer Networking"> <img src="https://img.shields.io/badge/Database(DBMS)-8A2BE2?logo=sqlite&logoColor=white" alt="DBMS"> <img src="https://img.shields.io/badge/Algorithms_Design-DC143C?logo=geeksforgeeks&logoColor=white" alt="Algorithms Design"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,100:DCEDC1&height=120&section=header&text=🚀%20My%20Technical%20Stack&fontSize=28&fontColor=000000&animation=fadeIn"/>
+<p align="center"> <img src="https://img.shields.io/badge/Data_Structures-4B0082?logo=codeforces&logoColor=white" alt="Data Structures"> <img src="https://img.shields.io/badge/Operating_Systems-008080?logo=linux&logoColor=white" alt="Operating Systems"> <img src="https://img.shields.io/badge/Computer_Networking-FF6347?logo=cisco&logoColor=white" alt="Computer Networking"> <img src="https://img.shields.io/badge/Database(DBMS)-8A2BE2?logo=sqlite&logoColor=white" alt="DBMS"> <img src="https://img.shields.io/badge/Algorithms_Design-DC143C?logo=geeksforgeeks&logoColor=white" alt="Algorithms Design"> 
 
 
 
