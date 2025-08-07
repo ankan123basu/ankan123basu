@@ -1,16 +1,12 @@
 <div align="center">
-  <h3 align="center">
-    <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350" alt="AI Technology Banner">
-  </h3> 
-</div>
-
-<div align="center">
-
-  ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankan+Basu+%F0%9F%91%8B;ML,Gen-AI,ComputerVision+And+WebDev+Enthusiast+⚡;4x+Hackathon+Winner+🏆;Always+learning+%26+building!+🚀)
-
+  <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350" alt="AI Technology Banner">
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankan+Basu+%F0%9F%91%8B;ML%2C+Gen-AI%2C+ComputerVision+%26+WebDev+Enthusiast+⚡;4x+Hackathon+Winner+%F0%9F%8F%86;Always+learning+%26+building!+%F0%9F%9A%80" alt="Typing Intro">
+  <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  
 </div> 
+
+
 
 ## 🧠 <span style="color:#ffcc00;">About Me</span> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
 
@@ -18,11 +14,9 @@
 
 💡 **Problem Solver** -  Competitive programming using Java | C | PYTHON  
 🤖 **Generative AI Explorer** - Building with **LangChain, LlamaIndex , RAG pipelines, NLP(NATURAL LANGUAGE PROCESSING)**  
-🚀 **Tech Evangelist** - Constantly experimenting with cutting-edge AI/ML frameworks 
+🚀 **Tech Evangelist** - Constantly experimenting with cutting-edge AI/ML frameworks  
 ⚙️ **ML-Ops Practitioner** - Experimenting with MACHINE LEARNING AND DEVOPS  
 ♟️ **Chess Strategist** - Applying game theory to complex system design  
-
- 
 
 ### 🔭 **Currently Focused On**
 - 🏆 Developing AI solutions for **SIH Project and Hackathons**
@@ -31,11 +25,24 @@
 - 📫 **Reach me at**: ankanbasu10@gmail.com  
 - ⚡ **Fun fact**: Solve coding problems like chess puzzles - strategically! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
----
+
 
 ## 🤝 **Connect With Me**
-<p align="center"> <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"> </a> <a href="https://x.com/AnkanBasu02" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"> </a> <a href="https://leetcode.com/u/ankanbasu10/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode"> </a> <a href="https://codeforces.com/profile/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Competitions-1F8ACB?logo=codeforces&style=for-the-badge" alt="Codeforces"> </a> <a href="https://www.codechef.com/users/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-Rated%20Coder-5B4638?logo=codechef&style=for-the-badge" alt="CodeChef"> </a> </p>
----
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"> </a> 
+  <a href="https://x.com/AnkanBasu02" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"> </a> 
+  <a href="https://leetcode.com/u/ankanbasu10/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode"> </a> 
+  <a href="https://codeforces.com/profile/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Competitions-1F8ACB?logo=codeforces&style=for-the-badge" alt="Codeforces"> </a> 
+  <a href="https://www.codechef.com/users/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-Rated%20Coder-5B4638?logo=codechef&style=for-the-badge" alt="CodeChef"> </a> 
+</p>
+
+<p align="center">
+  <a href="mailto:ankanbasu10@gmail.com">
+    <img src="https://img.shields.io/badge/Let's Collaborate-FF69B4?style=for-the-badge&logo=Handshake&logoColor=white" alt="collab">
+  </a>
+</p>
+
 
 ## 🛠️ **Technical Toolkit**
 
@@ -72,11 +79,25 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </p>
 
----
+
+
+## 🏅 Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan123basu&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan123basu&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan123basu&theme=monokai" />
+  <img src="https://ghchart.rshah.org/ankan123basu" alt="Ankan's Github chart" />
+</p>
+
+
 ## 🏆 **GitHub Trophies**
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankan123basu&theme=radical&column=4&margin-w=5" alt="GitHub Trophies" />
 </p>
+
+
 
 ## 📊 **Development Activity**
 
@@ -90,9 +111,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Languages" height="200">
 </div>
 
----
+
+
+## 🏙️ GitHub Skyline
+
+<p align="center">
+  <a href="https://skyline.github.com/ankan123basu/2024" target="_blank">
+    <img src="https://img.shields.io/badge/View-3D%20Skyline-blue?style=for-the-badge&logo=github" alt="Skyline">
+  </a>
+</p>
+
+
 
 ## 💡 **Coding Philosophy**
+
 <div align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50">
   <blockquote style="font-size: 20px; font-style: italic;">
@@ -101,9 +133,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
 </div>
 
----
 
-## 🌟 **Daily Inspiration** 
+
+## 💬 Developer Vibes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stay-curious-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Keep shipping-fastgreen?style=for-the-badge">
+</p>
+
+
+
+## 🌟 **Daily Inspiration**
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote">
 </div>
