@@ -12,7 +12,7 @@
 
 **Computer Science Student** @ Lovely Professional University | **JAVA** | **GENERATIVE-AI | MACHINE-LEARNING | WEB-DEVELOPMENT**  
 
-💡 **Problem Solver** -  Competitive programming using Java | C | PYTHON  
+💡 **Problems Solver** -  Competitive programming using Java | C | PYTHON  
 🤖 **Generative AI Explorer** - Building with **LangChain, LlamaIndex , RAG pipelines, NLP(NATURAL LANGUAGE PROCESSING)**  
 🚀 **Tech Evangelist** - Constantly experimenting with cutting-edge AI/ML frameworks  
 ⚙️ **ML-Ops Practitioner** - Experimenting with MACHINE LEARNING AND DEVOPS  
