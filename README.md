@@ -10,7 +10,7 @@
 
 **Computer Science Student** @ Lovely Professional University | **FULL STACK WEB DEV** | **JAVA FULL STACK** | **AI-DRIVEN ENGINEERING** | **DEVOPS**
 
-🌐 **Full Stack Web Dev** - Architecting responsive, high-performance web applications using modern JavaScript/TypeScript ecosystems.  
+🌐 **Full Stack Web Dev** - Architecting responsive, high-performance web applications using modern JavaScript ecosystems.  
 ☕ **Java Full Stack** - Engineering robust, enterprise-grade backends and microservices with Spring Boot and Hibernate.  
 🤖 **AI-Driven Engineering** - Developing intelligent application logic and automated systems to solve complex real-world problems.  
 🚀 **DevOps Enthusiast** - Exploring infrastructure as code, containerization with Docker, and automated CI/CD pipelines.  
