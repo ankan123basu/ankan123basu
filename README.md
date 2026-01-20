@@ -41,7 +41,6 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> 
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"> 
@@ -73,7 +72,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"> 
   <img src="https://img.shields.io/badge/YOLOv8-00FFAA?logo=ultralytics&logoColor=black" alt="YOLO"> 
   <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?logo=google&logoColor=white" alt="OCR"> 
-  <img src="https://img.shields.io/badge/LangChain-00ADD8?logo=langchain&logoColor=white" alt="LangChain"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"> 
 </p>
 
@@ -81,7 +79,6 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"> 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"> 
 </p>
