@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350" alt="AI Technology Banner">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5 "width="100%" height="450" alt="AI Technology Banner">
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankan+Basu+👋;Full+Stack,+JavaFullStack+%26+AI+Engineer+⚡;DevOps+Enthusiast+🚀;Building+Scalable+Intelligent+Systems!+🌐" alt="Typing Intro">
   <br>
@@ -106,17 +106,15 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=react-dark&area=true&hide_border=true" alt="Activity Graph">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ankan123basu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="GitHub Stats">
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&theme=vision-friendly-dark" alt="Contribution Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankan123basu&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Languages" height="200">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 ## 💡 **Coding Philosophy**
 <div align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
   <blockquote style="font-size: 20px; font-style: italic;">
     "Build solutions that matter - Where enterprise architecture meets AI intelligence, and automation meets excellence."
   </blockquote>
@@ -126,6 +124,7 @@
 ## 💬 Developer Vibes
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
   <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Stay-curious-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Keep shipping-fastgreen?style=for-the-badge">
