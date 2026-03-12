@@ -1,137 +1,349 @@
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5 "width="100%" height="450" alt="AI Technology Banner">
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankan+Basu+👋;Full+Stack,+JavaFullStack+%26+AI+Engineer+⚡;DevOps+Enthusiast+🚀;Building+Scalable+Intelligent+Systems!+🌐" alt="Typing Intro">
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-</div> 
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="42%" height="350" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="55%" height="350" alt="AI Technology Banner" />
+</div>
 
-## 🧠 <span style="color:#ffcc00;">About Me</span> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
+<div align="center">
 
-**Computer Science Student** @ Lovely Professional University | **FULL STACK WEB DEV** | **JAVA FULL STACK** | **AI-DRIVEN ENGINEERING** | **DEVOPS**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=%E2%9A%A1+Hey%2C+I'm+Ankan+Basu;%E2%98%95+Java+Full+Stack+Engineer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%98%81%EF%B8%8F+AWS+%26+DevOps+Enthusiast;%F0%9F%9A%80+Building+Scalable+Systems)
 
-🌐 **Full Stack Web Dev** - Architecting responsive, high-performance web applications using modern JavaScript ecosystems.  
-☕ **Java Full Stack** - Engineering robust, enterprise-grade backends and microservices with Spring Boot and Hibernate.  
-🤖 **AI-Driven Engineering** - Developing intelligent application logic and automated systems to solve complex real-world problems.  
-🚀 **DevOps Enthusiast** - Exploring infrastructure as code, containerization with Docker, and automated CI/CD pipelines.  
-📷 **Image Processing Explorer** - Learning to implement real-time computer vision solutions using YOLOv8 and OCR technologies.  
+**`☕ Java Full Stack`** · **`💻 MERN Stack`** · **`☁️ AWS & DevOps`** · **`🇮🇳 India`**
 
-### 🔭 **Currently Focused On**
-- 🏗️ Building scalable **Full Stack Applications** with React.js and Node.js
-- ☕ Mastering the **Spring Ecosystem** for secure, high-concurrency Java backends
-- 🛠️ Implementing **DevOps best practices** using Docker, Kubernetes, and AWS
-- 📫 **Reach me at**: ankanbasu10@gmail.com  
-- ⚡ **Fun fact**: I treat my coffee intake as a heap-allocated resource; if I don't free it properly, I start throwing OutOfMemoryExceptions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
 
-## 🤝 **Connect With Me**
+[![Profile Views](https://komarev.com/ghpvc/?username=ankan123basu&label=PROFILE+VIEWS&color=00D9FF&style=flat-square)](https://github.com/ankan123basu)
+[![Followers](https://img.shields.io/github/followers/ankan123basu?label=FOLLOWERS&color=00D9FF&style=flat-square)](https://github.com/ankan123basu)
+[![Stars](https://img.shields.io/github/stars/ankan123basu?label=TOTAL+STARS&color=00D9FF&style=flat-square)](https://github.com/ankan123basu)
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/ankan-basu-595152271" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"> </a> 
-  <a href="https://x.com/AnkanBasu02" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"> </a> 
-  <a href="https://leetcode.com/u/ankanbasu10/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode"> </a> 
-  <a href="https://codeforces.com/profile/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Competitions-1F8ACB?logo=codeforces&style=for-the-badge" alt="Codeforces"> </a> 
-  <a href="https://www.codechef.com/users/ankanbasu10" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-Rated%20Coder-5B4638?logo=codechef&style=for-the-badge" alt="CodeChef"> </a> 
-</p>
+</div>
 
-## 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,100:DCEDC1&height=120&section=header&text=🚀%20Tech%20Stack%20&%20Tools&fontSize=28&fontColor=000000&animation=fadeIn"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250" />
+</div>
 
-💻 **Languages**
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"> 
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"> 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
 
-🌐 **Full Stack & Java Ecosystem**
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"> 
-  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate"> 
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"> 
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind"> 
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" alt="Three.js"> 
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24"> `System.out.println("whoami");`
 
-🧪 **Testing & Quality Assurance**
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest"> 
-  <img src="https://img.shields.io/badge/Supertest-000000?logo=supertest&logoColor=white" alt="Supertest"> 
-  <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white" alt="JUnit"> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"> 
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="350" />
 
-🤖 **AI Engineering & Image Processing**
-<p align="center"> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"> 
-  <img src="https://img.shields.io/badge/YOLOv8-00FFAA?logo=ultralytics&logoColor=black" alt="YOLO"> 
-  <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?logo=google&logoColor=white" alt="OCR"> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"> 
-</p>
+```java
+public class Ankan extends Developer {
 
-🏗️ **DevOps & Cloud**
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"> 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"> 
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"> 
-</p>
+    String name     = "Ankan Basu";
+    String location = "India 🇮🇳";
+    String education = "B.Tech CSE @ LPU";
 
-🗄️ **Databases & Cache**
-<p align="center"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"> 
-</p>
+    String[] roles = {
+        "Java Full Stack Dev",
+        "MERN Stack Engineer",
+        "DevOps Enthusiast"
+    };
 
-## 🏅 Achievements
+    String[] building = {
+        "Enterprise Microservices",
+        "Scalable Full-Stack Apps"
+    };
+
+    String[] learning = {
+        "Spring Cloud", "AWS", "System Design"
+    };
+
+    String funFact = "Coffee is my heap-allocated"
+        + " resource — forgetting to free it"
+        + " throws OutOfMemoryException! ☕";
+}
+```
+
+📫 **Reach me at:** ankanbasu10@gmail.com
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Tech Arsenal
+
+<div align="center">
+
+**`💬 LANGUAGES`**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**`☕ JAVA FULL STACK`**
+
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**`💻 MERN FULL STACK`**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**`☁️ AWS & DEVOPS`**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**`🗄️ DATABASES`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**`🧪 TESTING & QA`**
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=flat-square&logo=testinglibrary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**`🛠️ TOOLS`**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## 🏗️ Architecture I Build With
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="400" />
+
+```
+┌──────────────────────────────────────────────────────┐
+│                    CLIENT LAYER                       │
+│   React.js · Next.js · Tailwind CSS · Three.js       │
+├──────────────────────────────────────────────────────┤
+│                    API GATEWAY                        │
+│           Nginx · AWS API Gateway                     │
+├─────────────────┬────────────────────────────────────┤
+│  MERN SERVICES  │      JAVA MICROSERVICES            │
+│  Node + Express │  Spring Boot + Spring Security     │
+│  REST APIs      │  Hibernate / JPA                   │
+│  Socket.IO      │  JWT Auth                          │
+├─────────────────┴────────────────────────────────────┤
+│                    DATA LAYER                         │
+│   PostgreSQL · MongoDB · MySQL · Redis               │
+├──────────────────────────────────────────────────────┤
+│                 DEVOPS & CLOUD                        │
+│  Docker → Jenkins / GitHub Actions → AWS             │
+│                    Linux                              │
+└──────────────────────────────────────────────────────┘
+```
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
+
+## 🔌 Connect With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="40" />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan123basu&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan123basu&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan123basu&theme=monokai" />
-  <img src="https://ghchart.rshah.org/ankan123basu" alt="Ankan's Github chart" />
+  <a href="https://www.linkedin.com/in/ankan-basu-595152271"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ankan123basu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/AnkanBasu02"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ankanbasu10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/ankanbasu10"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/ankanbasu10"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="mailto:ankanbasu10@gmail.com"><img src="https://img.shields.io/badge/ankanbasu10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📊 **Development Activity**
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=react-dark&area=true&hide_border=true" alt="Activity Graph">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan123basu&theme=vision-friendly-dark" alt="Contribution Streak">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=ankan123basu&theme=tokyonight&hide_border=true" alt="Ankan's Streak" width="70%" />
 </div>
 
-## 💡 **Coding Philosophy**
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
-  <blockquote style="font-size: 20px; font-style: italic;">
-    "Build solutions that matter - Where enterprise architecture meets AI intelligence, and automation meets excellence."
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan123basu&theme=tokyonight" width="90%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan123basu&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan123basu&theme=tokyonight" width="45%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/ankan123basu" alt="Ankan's Github Chart" width="90%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## 🕹️ Quest Log — Click to Expand!
+
+<details>
+<summary>☕ <b>Main Quest: Java Full Stack Mastery</b></summary>
+<br>
+
+| Status | Quest | XP |
+| :----: | ----- | :--: |
+| ✅ | Master Core Java & OOP Principles | ⭐⭐⭐ |
+| ✅ | Build REST APIs with Spring Boot | ⭐⭐⭐⭐ |
+| ✅ | Implement Spring Security & JWT Auth | ⭐⭐⭐⭐ |
+| ✅ | Database Design with Hibernate/JPA | ⭐⭐⭐ |
+| 🔄 | Spring Cloud Microservices Architecture | ⭐⭐ |
+| 🔄 | Master Enterprise Design Patterns | ⭐⭐ |
+
+</details>
+
+<details>
+<summary>💻 <b>Main Quest: MERN Stack Mastery</b></summary>
+<br>
+
+| Status | Quest | XP |
+| :----: | ----- | :--: |
+| ✅ | Master JavaScript & ES6+ | ⭐⭐⭐ |
+| ✅ | Build SPAs with React & Next.js | ⭐⭐⭐⭐ |
+| ✅ | Backend APIs with Node.js & Express | ⭐⭐⭐⭐ |
+| ✅ | MongoDB & Mongoose for Data Layer | ⭐⭐⭐ |
+| ✅ | Deploy Full-Stack Apps to Production | ⭐⭐⭐⭐ |
+| 🔄 | Advanced State Management & Performance | ⭐⭐ |
+
+</details>
+
+<details>
+<summary>☁️ <b>Side Quest: AWS & DevOps</b></summary>
+<br>
+
+| Status | Quest | XP |
+| :----: | ----- | :--: |
+| ✅ | Containerization with Docker | ⭐⭐⭐ |
+| ✅ | CI/CD with Jenkins & GitHub Actions | ⭐⭐⭐ |
+| ✅ | Linux Server Administration | ⭐⭐⭐ |
+| 🔄 | AWS Services (EC2, S3, RDS, Lambda) | ⭐⭐ |
+| 🔜 | Infrastructure as Code | ⭐ |
+
+</details>
+
+<details>
+<summary>⚔️ <b>Side Quest: Competitive Programming</b></summary>
+<br>
+
+| Platform | Profile | Status |
+| :------: | ------- | :----: |
+| 🟡 LeetCode | [ankanbasu10](https://leetcode.com/u/ankanbasu10/) | Active |
+| 🟢 Codeforces | [ankanbasu10](https://codeforces.com/profile/ankanbasu10) | Active |
+| 🔵 CodeChef | [ankanbasu10](https://www.codechef.com/users/ankanbasu10) | Active |
+
+</details>
+
+<details>
+<summary>🎁 <b>Secret Loot — Click for Surprise!</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <br><br>
+  <b>You found the secret chest! 🎉</b><br>
+  <em>Here's a mass of XP for being curious!</em><br><br>
+  <img src="https://img.shields.io/badge/+500_XP_BONUS-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</div>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
+
+## 👾 Arcade Zone
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="350" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705571c0.gif" width="300" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
+
+## 💡 Coding Philosophy
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300" />
+  <br><br>
+  <blockquote>
+    <b><em>"Build solutions that matter — where enterprise architecture meets scalability, and automation meets excellence."</em></b>
   </blockquote>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## 💡 Wisdom Drops
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 💬 Developer Vibes
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-  <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stay-curious-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Keep shipping-fastgreen?style=for-the-badge">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stay-curious-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep_shipping-fast-green?style=for-the-badge" />
 </p>
 
-## 🌟 **Daily Inspiration**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=550&lines=GG+WP!+Thanks+for+visiting+%F0%9F%91%80;Drop+a+%E2%AD%90+if+you+liked+something;Let's+collaborate+and+build+something+epic+%F0%9F%94%A5;See+you+in+the+code+trenches+%F0%9F%9A%80)
+
+<br>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GAME_OVER-INSERT_COIN_TO_CONTINUE-00D9FF?style=for-the-badge&logo=retropie&logoColor=white" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:00D9FF&height=100&section=footer" width="100%" />
+
 </div>
