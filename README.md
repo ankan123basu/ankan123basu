@@ -186,28 +186,8 @@ public class Ankan extends Developer {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan123basu&theme=tokyonight" width="90%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan123basu&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan123basu&theme=tokyonight" width="45%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 📈 Activity Graph
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/ankan123basu" alt="Ankan's Github Chart" width="90%" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🕹️ Quest Log — Click to Expand!
@@ -284,18 +264,6 @@ public class Ankan extends Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
 
-## 👾 Arcade Zone
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="350" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705571c0.gif" width="300" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
-
 ## 💡 Coding Philosophy
 
 <div align="center">
@@ -329,21 +297,3 @@ public class Ankan extends Developer {
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=550&lines=GG+WP!+Thanks+for+visiting+%F0%9F%91%80;Drop+a+%E2%AD%90+if+you+liked+something;Let's+collaborate+and+build+something+epic+%F0%9F%94%A5;See+you+in+the+code+trenches+%F0%9F%9A%80)
-
-<br>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GAME_OVER-INSERT_COIN_TO_CONTINUE-00D9FF?style=for-the-badge&logo=retropie&logoColor=white" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:00D9FF&height=100&section=footer" width="100%" />
-
-</div>
