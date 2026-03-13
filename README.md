@@ -268,12 +268,17 @@ public class Ankan extends Developer {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Coding Animation" />
   <br><br>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stay-curious-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep_shipping-fast-green?style=for-the-badge" />
+</p>
   <blockquote>
     <b><em>"Build solutions that matter — where enterprise architecture meets scalability, and automation meets excellence."</em></b>
   </blockquote>
-  <br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -284,16 +289,5 @@ public class Ankan extends Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 💬 Developer Vibes
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stay-curious-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keep_shipping-fast-green?style=for-the-badge" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
