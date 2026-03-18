@@ -49,7 +49,7 @@ public class Ankan extends Developer {
     };
 
     String[] learning = {
-        "Spring Cloud", "AWS", "System Design"
+        "Spring Cloud", "AWS", "System Design", "SpringBoot"
     };
 
     String funFact = "Coffee is my heap-allocated"
