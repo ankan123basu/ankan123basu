@@ -253,7 +253,7 @@ public class Ankan extends Developer {
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
   <br><br>
-  <b>You found the secret chest! 🎉</b><br>
+  <b>You found OUT the secret chest! 🎉</b><br>
   <em>Here's a mass of XP for being curious!</em><br><br>
   <img src="https://img.shields.io/badge/+500_XP_BONUS-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </div>
