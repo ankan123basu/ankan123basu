@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" height="450 />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" height="450" />
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=%E2%9A%A1+Hey%2C+I'm+Ankan+Basu;%E2%98%95+Java+Full+Stack+Engineer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%98%81%EF%B8%8F+AWS+%26+DevOps+Enthusiast;%F0%9F%9A%80+Building+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=%E2%9A%A1+Hey%2C+I'm+Ankan+Basu;%E2%98%95+Java+Full+Stack+Engineer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%98%81%EF%B8%8F+AWS+%26+DevOps+Enthusiast;%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%A4%96+GenAI+%26+Agentic+Systems+Engineer)
 
-**`☕ Java Full Stack`** · **`💻 MERN Stack`** · **`☁️ AWS & DevOps`** · **`🇮🇳 India`**
+**`☕ Java Full Stack`** · **`💻 MERN Stack`** · **`🤖 GenAI`** · **`☁️ AWS & DevOps`** · **`🇮🇳 India`**
 
 <br>
 
@@ -40,16 +40,19 @@ public class Ankan extends Developer {
     String[] roles = {
         "Java Full Stack Dev",
         "MERN Stack Engineer",
+        "GenAI / LLM Engineer",
         "DevOps Enthusiast"
     };
 
     String[] building = {
         "Enterprise Microservices",
-        "Scalable Full-Stack Apps"
+        "Scalable Full-Stack Apps",
+        "RAG Pipelines & Agentic Workflows"
     };
 
     String[] learning = {
-        "Spring Cloud", "AWS", "System Design", "SpringBoot"
+        "Spring Cloud", "AWS", "System Design", "SpringBoot",
+        "LangGraph", "LangChain", "Agentic AI Systems"
     };
 
     String funFact = "Coffee is my heap-allocated"
@@ -97,6 +100,20 @@ public class Ankan extends Developer {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**`🤖 GENERATIVE AI`**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Meta Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 **`☁️ AWS & DEVOPS`**
 
@@ -148,6 +165,10 @@ public class Ankan extends Developer {
 │  REST APIs      │  Hibernate / JPA                   │
 │  Socket.IO      │  JWT Auth                          │
 ├─────────────────┴────────────────────────────────────┤
+│                 GENAI / AGENTIC LAYER                 │
+│  LangChain · LangGraph · RAG Pipelines · LLM Agents  │
+│  Vector Search (ChromaDB/Pinecone) · Gemini/OpenAI   │
+├──────────────────────────────────────────────────────┤
 │                    DATA LAYER                         │
 │   PostgreSQL · MongoDB · MySQL · Redis               │
 ├──────────────────────────────────────────────────────┤
@@ -161,6 +182,10 @@ public class Ankan extends Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## 🔌 Connect With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="40" />
 
 <p align="center">
@@ -171,6 +196,7 @@ public class Ankan extends Developer {
   <a href="https://codeforces.com/profile/ankanbasu10"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/ankanbasu10"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="mailto:ankanbasu10@gmail.com"><img src="https://img.shields.io/badge/ankanbasu10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -231,6 +257,20 @@ public class Ankan extends Developer {
 | ✅ | Linux Server Administration | ⭐⭐⭐ |
 | 🔄 | AWS Services (EC2, S3, RDS, Lambda) | ⭐⭐ |
 | 🔜 | Infrastructure as Code | ⭐ |
+
+</details>
+
+<details>
+<summary>🤖 <b>Side Quest: Generative AI & Agentic Systems</b></summary>
+<br>
+
+| Status | Quest | XP |
+| :----: | ----- | :--: |
+| ✅ | Build RAG Pipelines (Chunking, Embeddings, Vector DBs) | ⭐⭐⭐ |
+| ✅ | Design LangGraph StateGraphs & Conditional Routing | ⭐⭐⭐⭐ |
+| ✅ | LangChain Prompt Templates & LCEL Chains | ⭐⭐⭐ |
+| 🔄 | Multi-Agent Orchestration | ⭐⭐ |
+| 🔜 | Fine-tuning & Model Evaluation Pipelines | ⭐ |
 
 </details>
 
