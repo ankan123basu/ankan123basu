@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" height="450" />
+  <img src="https://github.com/user-attachments/assets/4e69e004-17cb-4867-abb7-2932c2712d36" width="90%" />
 </div>
+
+<br>
 
 <div align="center">
 
@@ -17,18 +19,20 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" height="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="250" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="200" height="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" height="200" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24"> `System.out.println("whoami");`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24" height="24"> `System.out.println("whoami");`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="350" />
+<table>
+<tr>
+<td>
 
 ```java
 public class Ankan extends Developer {
@@ -63,11 +67,35 @@ public class Ankan extends Developer {
 
 📫 **Reach me at:** ankanbasu10@gmail.com
 
-<br clear="right"/>
+</td>
+<td align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Tech Arsenal
+> *"Nothing is true,*
+> *everything is permitted."*
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="400" />
+
+<br>
+
+**🗡️ Work in the dark,**
+**serve the light. 🦅**
+
+*— Like an Assassin, I debug*
+*what others can't see.*
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"> Tech Arsenal
 
 <div align="center">
 
@@ -146,11 +174,13 @@ public class Ankan extends Developer {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
 
 ## 🏗️ Architecture I Build With
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="400" />
+<table>
+<tr>
+<td>
 
 ```
 ┌──────────────────────────────────────────────────────┐
@@ -178,15 +208,41 @@ public class Ankan extends Developer {
 └──────────────────────────────────────────────────────┘
 ```
 
-<br clear="right"/>
+</td>
+<td align="center">
+
+<br>
+
+**🏗️ Architect by day,**
+**beaver by night 🦫**
+
+> *"Why build one monolith*
+> *when you can build*
+> *10 microservices?"*
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="400" />
+
+<br>
+
+**☕ Fueled by coffee,**
+**deployed with Docker,**
+**scaled with dreams. 🚀**
+
+<br>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2" width="100%" />
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
 
-## 🔌 Connect With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="40" />
+## 🔌 Connect With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="40" height="40" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankan-basu-595152271"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -199,7 +255,7 @@ public class Ankan extends Developer {
   <a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
 
 ## 📊 GitHub Stats
 
@@ -212,7 +268,8 @@ public class Ankan extends Developer {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
 
 ## 🕹️ Quest Log — Click to Expand!
 
@@ -291,7 +348,7 @@ public class Ankan extends Developer {
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" height="200" />
   <br><br>
   <b>You found OUT the secret chest! 🎉</b><br>
   <em>Here's a mass of XP for being curious!</em><br><br>
@@ -305,9 +362,9 @@ public class Ankan extends Developer {
 ## 💡 Coding Philosophy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="250" height="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" height="250" />
   <br><br>
   <p align="center">
   <img src="https://img.shields.io/badge/Code-is%20like%20humor-blueviolet?style=for-the-badge" />
@@ -319,7 +376,7 @@ public class Ankan extends Developer {
   </blockquote>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
 
 ## 💡 Wisdom Drops
 
@@ -327,5 +384,4 @@ public class Ankan extends Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="6" />
